@@ -33,10 +33,10 @@ Store - Customer
 ### Endpoint:
 - All CRUD 
 - Create endpoint that takes storeid and return all the books 
-- create endpoint thar takes storeid and return all customers
+- Create endpoint thar takes storeid and return all customers
 - Create endpoint that takes bookId and return number of books available 
-- craete endpoint that takes a book name and return all book information
-- craete endpoint that return all books under a specific genre
+- Create endpoint that takes a book name and return all book information
+- Create endpoint that return all books under a specific genre
 
 
 
