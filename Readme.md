@@ -18,7 +18,7 @@ area - street (Add all required validation)
 id - name - bookCount - genre (Add all required validation)
 
 
-### One To One relation:
+### One To One 
 Store - location  
 
 ### One To Many
