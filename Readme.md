@@ -1,7 +1,7 @@
 # Project 5
 
 
-### Cutomer class:
+### Customer class:
 
 id - name - phoneNumber - email (Add all required validation)
 
